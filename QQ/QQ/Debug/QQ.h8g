@@ -1,0 +1,4 @@
+-cpu=300HN
+-output="C:\WorkSpace\QQ\QQ\Debug\QQ.lib"
+-head=runtime,new,stdio,stdlib
+-lang=c
